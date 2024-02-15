@@ -13,7 +13,9 @@ In this project I analyze and visualize a dataset found on [Kaggle](https://www.
 
 ### Findings/Analysis
 • Over the past century, Japan has undergone significant demographic shifts, including a post-World War II baby boom followed by a prolonged period of declining birth rates and an aging population since the 1970's.
+
 • Since birth demographics record-keeping began in Japan, there has been a consistent trend of more males being born. 
+
 • Despite Japan's relatively low infant mortality rate, there exists a noticeable gender disparity, with male infants experiencing higher stillbirth and infant mortality rates compared to females.
 
 ![Japan Birth Demographics](https://github.com/admichalk/Tableau/assets/154308860/d53bccdd-72d1-4d51-ba09-d350d7f98ea0)
