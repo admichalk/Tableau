@@ -1,7 +1,7 @@
 # Tableau
 
 ## 1. Japan Birth Demographics (Dashboard)
-In this project I analyze and visualize a dataset found on [Kaggle](https://www.kaggle.com/datasets/webdevbadger/japan-birth-statistics). My goal was to make easy-to-digest visualizations to convey my findings. 
+In this project I analyze and visualize a dataset found on [Kaggle](https://www.kaggle.com/datasets/webdevbadger/japan-birth-statistics). My goal was to make easy-to-digest, interactive visualizations.
 > **This dashboard in interactive. To use the interactions, follow the [link](https://public.tableau.com/app/profile/amber.dixie.michalk/viz/JapanBirthDemographicsAmberMichalk/Dashboard1).** 
 
 ### Skills Used: 
